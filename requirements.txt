@@ -3,4 +3,5 @@ qiskit
 qiskit-aer
 matplotlib
 pylatexenc
+sympy
 jupyter
