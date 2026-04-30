@@ -32,7 +32,7 @@ quantum computational advantage over any classical deterministic algorithm.
 
 ```bash
 git clone https://github.com/ViktorKobylka/emerging_technologies_g00425163.git
-cd emerging-technologies
+cd emerging_technologies_g0042516
 ```
 
 ### Install Dependencies
